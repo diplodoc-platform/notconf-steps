@@ -1,0 +1,10 @@
+href: index.md
+navigation:
+  logo:
+    url: ./index.html
+    text: Lorem ipsum
+items:
+  - name: About
+    href: about.md
+  - name: Overview
+    href: overview.md
